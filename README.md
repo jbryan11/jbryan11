@@ -1,9 +1,9 @@
-
+[PeekaBo0's Header](/github_header.png)
 
 # HI I'm Bryan
 
 
-[![PeekaBo0's Stats](https://github-readme-stats.vercel.app/api?username=jbryan11)]
+[PeekaBo0's Stats](https://github-readme-stats.vercel.app/api?username=jbryan11)
 <!--
 **jbryan11/jbryan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
