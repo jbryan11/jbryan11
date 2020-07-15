@@ -1,4 +1,4 @@
-<img src="./public/github_header.png">
+<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github_header.png?raw=true">
 <h1 align="center">John Bryan Delda</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
