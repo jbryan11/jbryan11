@@ -3,7 +3,7 @@
 # HI I'm Bryan
 
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![PeekaBo0's Stats](https://github-readme-stats.vercel.app/api?username=jbryan11)]
 <!--
 **jbryan11/jbryan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
