@@ -1,4 +1,4 @@
-[PeekaBo0's Header](https://github.com/jbryan11/jbryan11/blob/master/public/github_header.png)
+[PeekaBo0's Header](https://github.com/jbryan11/jbryan11/blob/master/public/github_header.png?raw=true)
 
 # HI I'm Bryan
 
