@@ -10,4 +10,4 @@
 </p>
 
 
-<img src="./public/github-footer.png">
+<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github-footer.png?raw=true">
