@@ -5,6 +5,9 @@
 ### About
 
 - I love to learn new things especially in the field of technology. 
+- A curious minded person who doesn't stop finding answers.
+- Digital arts enthusiast.
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
