@@ -2,12 +2,30 @@
 <h1 align="center">John Bryan Delda</h1>
 <p align="center"><em>Learn | Code | Debug</em></p>
 
-### About
+### About Me
 
 * I love to learn new things especially in the field of technology. 
 * A curious minded person who doesn't stop finding answers.
 * Digital arts enthusiast.
+* Specializing in Software development and IoT.
+* A front-end developer
 <br/><br/><br/>
+
+### Languages
+
+* Javascript
+* PHP
+* C/C++
+* Java
+* SQL
+* VHDL (some familiarities)
+
+### Frameworks (currently using)
+
+* React
+* Next.js
+* Bootstrap
+* Material-ui
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
