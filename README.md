@@ -17,11 +17,12 @@ Yoooo! :hand:
 
 ### About Me
 
-* Software Engineer / Frontend.
+* Software Engineer / Frontend. :technologist:
 * Specializing in Software development and IoT.
-* I love to learn new stuffs that I'm interested in. 
-* Adaptive. 
-* Fullstacking myself. 
+* I love to learn new stuffs that I'm interested in. :books:
+* Adaptive. :swimmer:
+* Fullstacking myself. :rocket:
+* Fun Fact : I'm a Kpopper :kr: ; and a gamer :video_game:
 <br/>
 
 ### :memo: TODO for 2021
