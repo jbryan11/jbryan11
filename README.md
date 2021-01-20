@@ -1,6 +1,8 @@
-<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github-header v2.0.0.png?raw=true">
-<p align="center"><em>2021 - Revamping</em></p>
 
+[![JB Github Banner](./public/github-header_v2.0.0.png.png)](https://github.com/jbryan11)
+<h4 align="center">2021 - PERSONA REVAMP</h4>
+<br/><br/>
+Yoooo! :hand:
 ### About Me
 
 * I love to learn new stuffs that I'm interested in. 
