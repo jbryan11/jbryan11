@@ -4,11 +4,10 @@
 
 ### About Me
 
-* I love to learn new things especially in the field of technology. 
-* A curious minded person who doesn't stop finding answers.
-* Digital arts enthusiast.
+* I love to learn new stuffs that I'm interested in. 
+* Curiosity makes me seek for answers.
 * Specializing in Software development and IoT.
-* A front-end developer
+* Fullstacking. 
 <br/><br/><br/>
 
 ### Languages
@@ -20,12 +19,21 @@
 * SQL
 * VHDL (some familiarities)
 
-### Frameworks (currently using)
+### Frameworks that I use in Web Development (currently using)
 
 * React
 * Next.js
 * Bootstrap
 * Material-ui
+* Node.js
+* MongoDB
+
+### TODO : 2021
+
+* Certifications
+* Look for collaborations
+* Create and populate my portfolio
+* Study business-side stuffs
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
