@@ -1,5 +1,5 @@
 
-[![JB Github Banner](./public/github-header_v2.0.0.png.png)](https://github.com/jbryan11)
+[![JB Github Banner](https://github.com/jbryan11/jbryan11/blob/master/public/github-header%20v2.0.0.png)](https://github.com/jbryan11)
 <h4 align="center">2021 - PERSONA REVAMP</h4>
 <br/><br/>
 Yoooo! :hand:
