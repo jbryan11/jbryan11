@@ -20,8 +20,8 @@ Yoooo! :hand:
 * Software Engineer / Frontend.
 * Specializing in Software development and IoT.
 * I love to learn new stuffs that I'm interested in. 
-* Always curious.
-* Fullstacking. 
+* Adaptive. 
+* Fullstacking myself. 
 <br/>
 
 ### :memo: TODO for 2021
@@ -73,7 +73,7 @@ ___
 ___
 
 
-<h2 align="center">Experiences</h2>
+<h2 align="center">Statistics</h2>
 
 
 <p align="center">
