@@ -1,4 +1,4 @@
-<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github_header.png?raw=true">
+<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github-header v2.0.0.png?raw=true">
 <h1 align="center">John Bryan Delda</h1>
 <p align="center"><em>Learn | Code | Debug</em></p>
 
@@ -37,4 +37,4 @@
 </p>
 
 
-<img src="https://github.com/jbryan11/jbryan11/blob/master/public/github-footer.png?raw=true">
+
