@@ -21,7 +21,7 @@ Yoooo! :hand:
 * Specializing in Software development and IoT.
 * I love to learn new stuffs that I'm interested in. :books:
 * Adaptive. :swimmer:
-* Fullstacking myself. :rocket:
+* Going Fullstack. :rocket:
 * Fun Fact : I'm a Kpopper :kr: ; and a gamer :video_game:
 <br/>
 
