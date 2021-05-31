@@ -1,6 +1,6 @@
 
-[![JB Github Banner](https://github.com/jbryan11/jbryan11/blob/master/public/github-header%20v2.0.0.png)](https://github.com/jbryan11)
-<h2 align="center">2021 - Persona Revamp</h2>
+[![JB Github Banner](https://github.com/jbryan11/jbryan11/blob/master/public/Header.jpg)](https://github.com/jbryan11)
+<h2 align="center">Yo! :hand: I'm Bryan</h2>
 
 <br/>
 
@@ -13,9 +13,7 @@
 
 <br/>
 
-Yoooo! :hand:
-
-### About Me
+#### About Me
 
 * Software Engineer / Frontend. :technologist:
 * Specializing in Software development and IoT.
@@ -25,28 +23,11 @@ Yoooo! :hand:
 * Fun Fact : I'm a Kpopper :kr: ; and a gamer :video_game:
 <br/>
 
-### :memo: TODO for 2021
-
-* Certifications :card_index:
-* Look for collaborations :wave:
-* Populate my portfolio :books:
-* Study business-side stuffs :bar_chart:
-<br/>
-
 ___
 
+<h5>Experiences</h5>
 
-<h2 align="center">Experiences</h2>
-
-#### I use Languages like
-
-![Javascript Badge](https://img.shields.io/badge/Javascript-Code?style=for-the-badge&logo=javascript&labelColor=00000&logoColor=000000&color=F7DF1E)
-![Python Badge](https://img.shields.io/badge/Python-Code?style=for-the-badge&logo=python&logoColor=FFFFFF&color=3776AB)
-![PHP Badge](https://img.shields.io/badge/PHP-Code?style=for-the-badge&logo=php&logoColor=FFFFFF&color=777BB4)
-![Java Badge](https://img.shields.io/badge/Java-Code?style=for-the-badge&logo=java&logoColor=FFFFFF&color=007396)
-![Cplus Badge](https://img.shields.io/badge/C++-Code?style=for-the-badge&logo=c&logoColor=FFFFFF&color=00599C)
-
-#### I'm currently using
+#### Currently Using
 
 ![React Badge](https://img.shields.io/badge/React-Code?style=for-the-badge&logo=react&logoColor=FFFFFF&color=61DAFB)
 ![Nextjs Badge](https://img.shields.io/badge/Nextjs-Code?style=for-the-badge&logo=next.js&logoColor=FFFFFF&color=000000)
@@ -57,27 +38,33 @@ ___
 ![CSS Badge](https://img.shields.io/badge/CSS3-Code?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=1572B6)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Code?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=7952B3)
 ![Material UI Badge](https://img.shields.io/badge/MaterialUI-Code?style=for-the-badge&logo=material-ui&logoColor=FFFFFF&color=0081CB)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Code?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=7952B3)
+![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-Code?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF&color=38B2AC)
 
-
-#### I do Embedded or IoT stuffs in
+#### IoT
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-embedded?style=for-the-badge&logo=arduino&logoColor=FFFFFF&color=00979D)
 ![Raspberry Pi Badge](https://img.shields.io/badge/RaspberryPi-embedded?style=for-the-badge&logo=raspberry-pi&logoColor=FFFFFF&color=C51A4A)
 
-#### I do my designs/mockups/wireframes/UX in
+#### Designs
 
 ![Figma Badge](https://img.shields.io/badge/Figma-design?style=for-the-badge&logo=figma&logoColor=FFFFFF&color=F24E1E)
 ![Autodesk Badge](https://img.shields.io/badge/AutoCAD-design?style=for-the-badge&logo=autodesk&logoColor=FFFFFF&color=0696D7)
 ![Sketchup Badge](https://img.shields.io/badge/Sketchup-design?style=for-the-badge&logo=sketchup&logoColor=FFFFFF&color=005F9E)
 
+#### Languages
+
+![Javascript Badge](https://img.shields.io/badge/Javascript-Code?style=for-the-badge&logo=javascript&labelColor=00000&logoColor=000000&color=F7DF1E)
+![Python Badge](https://img.shields.io/badge/Python-Code?style=for-the-badge&logo=python&logoColor=FFFFFF&color=3776AB)
+![PHP Badge](https://img.shields.io/badge/PHP-Code?style=for-the-badge&logo=php&logoColor=FFFFFF&color=777BB4)
+![Java Badge](https://img.shields.io/badge/Java-Code?style=for-the-badge&logo=java&logoColor=FFFFFF&color=007396)
+![Cplus Badge](https://img.shields.io/badge/C++-Code?style=for-the-badge&logo=c&logoColor=FFFFFF&color=00599C)
 
 ___
 
+<h5>Statistics</h5>
 
-<h2 align="center">Statistics</h2>
-
-
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
 </p>
 
