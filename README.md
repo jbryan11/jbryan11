@@ -8,8 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-jbryandelda?style=for-the-badge&logo=linkedin&color=0a66c2)](https://www.linkedin.com/in/jbryandelda/)
 [![Codepen Badge](https://img.shields.io/badge/CodePen-PeekABo0saku?style=for-the-badge&logo=Codepen&logoColor=white&color=000000)](https://codepen.io/PeekABo0saku)
 [![Figma Badge](https://img.shields.io/badge/Figma-@peekabo0saku?style=for-the-badge&logoColor=FFFFFF&logo=figma&color=F24E1E)](https://www.figma.com/@peekabo0saku)
-[![Email Badge](https://img.shields.io/badge/Email-Personal?style=for-the-badge&logo=microsoft-outlook&color=CA5010)](mailto:bryan.delda11@outlook.com)
-[![RPOINT Badge](https://img.shields.io/badge/RPOINT-Business?style=for-the-badge&logo=email&color=28A44D)](mailto:johnbryandelda@rpointsolution.com)
+[![Email Badge](https://img.shields.io/badge/Email-Personal?style=for-the-badge&logo=microsoft-outlook&color=CA5010)](mailto:bryan.delda11@gmail.com)
 
 <br/>
 
