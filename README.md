@@ -14,12 +14,11 @@
 
 #### About Me
 
-* Software Engineer / Frontend. :technologist:
-* Specializing in Software development and IoT.
+* Frontend to Fullstack. :technologist:
+* Specializing in Software/Web development and IoT.
 * I love to learn new stuffs that I'm interested in. :books:
 * Adaptive. :swimmer:
 * Going Fullstack. :rocket:
-* Fun Fact : I'm a Kpopper :kr: ; and a gamer :video_game:
 <br/>
 
 ___
