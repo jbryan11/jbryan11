@@ -1,6 +1,6 @@
 
 [![JB Github Banner](https://github.com/jbryan11/jbryan11/blob/master/public/Header.jpg)](https://github.com/jbryan11)
-<h2 align="center">Yo! :hand: I'm Bryan</h2>
+<h2>Yo! :hand: I'm Bryan</h2>
 
 <br/>
 
