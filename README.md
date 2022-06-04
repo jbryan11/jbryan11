@@ -31,7 +31,6 @@ ___
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-Code?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&color=47A248)
 ![HTML Badge](https://img.shields.io/badge/HTML5-Code?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=E34F26)
 ![CSS Badge](https://img.shields.io/badge/CSS3-Code?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=1572B6)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Code?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=7952B3)
 ![Material UI Badge](https://img.shields.io/badge/MaterialUI-Code?style=for-the-badge&logo=material-ui&logoColor=FFFFFF&color=0081CB)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Code?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=7952B3)
 ![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-Code?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF&color=38B2AC)
