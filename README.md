@@ -48,9 +48,13 @@ ___
 
 <h5>Statistics</h5>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=jbryan11">
-</p>
+![Jbryan's github trophy](https://github-profile-trophy.vercel.app/?username=jbryan11&row=1&theme=tokyonight&rank=-C&margin-w=8)
+
+![Jbryan's Readme Stats](https://github-readme-stats.vercel.app/api?username=jbryan11&theme=tokyonight)
+
+![JBryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbryan11&theme=tokyonight)
+
+
 
 
 
